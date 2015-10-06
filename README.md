@@ -1,4 +1,4 @@
-== README
+# README
 
 Ruby on Rails Tutorial; first app
 Tad Peters
